@@ -3,20 +3,20 @@
   "pages": [
     {
       "src": "AboutUs.md",
-      "title": "About Us",
       "headings": {
         "about-us": "About Us",
-        "project-team": "Project team",
+        "project-team": "🛠️ Project Team",
         "fabian-heng": "Fabian Heng",
         "lee-de-en": "Lee De En",
         "teesha-basak": "Teesha Basak",
-        "nithvin-leelakrishnan": "Nithvin Leelakrishnan"
+        "nithvin-leelakrishnan": "Nithvin Leelakrishnan",
+        "our-vision": "🌍 Our Vision",
+        "get-in-touch": "💬 Get In Touch"
       },
       "headingKeywords": {}
     },
     {
       "src": "Configuration.md",
-      "title": "Configuration guide",
       "headings": {
         "configuration-guide": "Configuration guide"
       },
@@ -24,7 +24,6 @@
     },
     {
       "src": "DevOps.md",
-      "title": "DevOps guide",
       "headings": {
         "devops-guide": "DevOps guide",
         "build-automation": "Build automation",
@@ -37,9 +36,8 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "clientnest-developer-guide": "ClientNest Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -73,7 +71,6 @@
     },
     {
       "src": "Documentation.md",
-      "title": "Documentation guide",
       "headings": {
         "documentation-guide": "Documentation Guide"
       },
@@ -81,7 +78,6 @@
     },
     {
       "src": "Logging.md",
-      "title": "Logging guide",
       "headings": {
         "logging-guide": "Logging guide"
       },
@@ -89,7 +85,6 @@
     },
     {
       "src": "SettingUp.md",
-      "title": "Setting up and getting started",
       "headings": {
         "setting-up-and-getting-started": "Setting up and getting started",
         "setting-up-the-project-in-your-computer": "Setting up the project in your computer",
@@ -122,7 +117,6 @@
     },
     {
       "src": "Testing.md",
-      "title": "Testing guide",
       "headings": {
         "testing-guide": "Testing guide",
         "running-tests": "Running tests",
@@ -145,20 +139,18 @@
         "deleting-a-premium-from-a-person-deletepr": "Deleting a premium from a person: deletepr",
         "locating-persons-by-name-find": "Locating persons by name: find",
         "deleting-a-person-delete": "Deleting a person : delete",
+        "clearing-all-person-clear": "Clearing all person : clear",
         "adding-a-policy-addpolicy": "Adding a policy: addpolicy",
         "listing-all-policies-listpolicy": "Listing all policies : listpolicy",
         "editing-a-policy-editpolicy": "Editing a policy : editpolicy",
         "locating-policy-by-name-findpolicy": "Locating policy by name: findpolicy",
         "deleting-a-policy-deletepolicy": "Deleting a policy : deletepolicy",
-        "clearing-all-person-clear": "Clearing all person : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
-        "saving-the-data": "Saving the data",
-        "editing-the-data-file": "Editing the data file",
         "editing-user-profile-profile": "Editing User Profile : profile",
-        "saving-the-data-2": "Saving the data",
-        "editing-the-data-file-2": "Editing the data file",
         "upcoming-birthdays-panel": "Upcoming Birthdays Panel",
         "viewing-and-managing-tasks-taskmanager": "Viewing and Managing Tasks: TaskManager",
+        "saving-and-editing-client-data": "Saving and Editing Client Data",
+        "saving-and-editing-user-profile-data": "Saving and Editing User Profile Data",
         "faq": "FAQ",
         "known-issues": "Known issues",
         "command-summary-for-clientnest": "Command summary for ClientNest"
@@ -167,17 +159,20 @@
     },
     {
       "src": "index.md",
-      "title": "",
+      "title": "🏠 ClientNest",
       "headings": {
-        "clientnest": "ClientNest"
+        "quick-start": "🚀 Quick Start",
+        "for-developers": "👨‍💻 For Developers",
+        "additional-information": "🤖 Additional Information",
+        "acknowledgements": "📚 Acknowledgements"
       },
       "headingKeywords": {}
     },
     {
       "src": "team/fabianheng.md",
-      "title": "Lee De En's Project Portfolio Page",
+      "title": "Fabian's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-clientnest": "Project: ClientNest"
       },
       "headingKeywords": {}
     },
@@ -185,23 +180,23 @@
       "src": "team/leedeen01.md",
       "title": "Lee De En's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-clientnest": "Project: ClientNest"
       },
       "headingKeywords": {}
     },
     {
       "src": "team/nightlyaffair.md",
-      "title": "Lee De En's Project Portfolio Page",
+      "title": "Nithvin's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-clientnest": "Project: ClientNest"
       },
       "headingKeywords": {}
     },
     {
       "src": "team/teesha902.md",
-      "title": "Lee De En's Project Portfolio Page",
+      "title": "Teesha's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-clientnest": "Project: ClientNest"
       },
       "headingKeywords": {}
     }
